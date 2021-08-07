@@ -592,7 +592,7 @@ section{
 /*Footer*/
 .footer{
   padding: 80px 0;
-  background-image: url("../img/footer.jpg");
+  background-image: url("./img/footer.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
